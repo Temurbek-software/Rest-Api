@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "lalGm/eXPJ7vXrzXKJCsHGSjzNW9t59fkf3nkxtL0aWAueGtq/BefawsZR4hh8s/ghoo1Rb2yGqQbYHNIzzEXA==",
+  "dgSpecHash": "s4LhJYFmOSvzM+ZyU1b2oAIKhNvjh2MiAOrzc2dgm+j0bLDS2sgW9bw9XcxltqUhg+e+HFPDztjPVaubblRcVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\temur\\Documents\\Projects\\DotNet-core\\Rest-Api\\Rest-Api\\Rest-Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\temur\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\temur\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\temur\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\temur\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\temur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\temur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
